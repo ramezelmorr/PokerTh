@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c106c4785919c914eb7402dc30c1f9e9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - createRoomInput: {instanceID: 0}
+  - joinRoomInput: {instanceID: 0}
+  - mlogic: {instanceID: 0}
+  - playerPrefab: {fileID: 4239042534786698, guid: 36cae1dd2c1bf034eaf01a8823f8ed24,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
